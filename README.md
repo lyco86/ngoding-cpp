@@ -31,4 +31,5 @@ int main() {
     Komputer: ok deh
 
 4. `return 0;`
+
     Menandakan program selesai dengan sukses.
